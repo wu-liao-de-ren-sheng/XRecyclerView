@@ -1,1 +1,2 @@
 # XRecyclerView
+![](https://github.com/wu-liao-de-ren-sheng/XRecyclerView/raw/master/app/src/main/res/raw/Swipe.gif) ![](https://github.com/wu-liao-de-ren-sheng/XRecyclerView/raw/master/app/src/main/res/raw/Linear.gif)  ![](https://github.com/wu-liao-de-ren-sheng/XRecyclerView/raw/master/app/src/main/res/raw/Grid.gif) ![](https://github.com/wu-liao-de-ren-sheng/XRecyclerView/raw/master/app/src/main/res/raw/Staggered.gif)
