@@ -307,4 +307,7 @@ public class XRecyclerView extends RecyclerView implements LoadingMoreFooterClic
     public void setVisibleThreshold(int visibleThreshold) {
         this.visibleThreshold = visibleThreshold;
     }
+    public void setHasMore(boolean hasMore){
+        this.hasMore = hasMore;
+    }
 }

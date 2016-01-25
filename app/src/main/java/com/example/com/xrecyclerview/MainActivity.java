@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     }
     public void gotoLinearActivity(View v) {
         Intent intent = new Intent();
-        intent.setClass(this,LinearActivity.class);
+        intent.setClass(this, LinearActivity.class);
         startActivity(intent);
     }
     public void gotoGridActivity(View v) {
@@ -29,6 +29,11 @@ public class MainActivity extends AppCompatActivity {
     public void gotoStaggeredGridActivity(View v) {
         Intent intent = new Intent();
         intent.setClass(this, StaggeredGridActivity.class);
+        startActivity(intent);
+    }
+    public void gotoSwipeRefreshLayoutLinearActivity(View v) {
+        Intent intent = new Intent();
+        intent.setClass(this, SwipeRefreshLayoutLinearActivity.class);
         startActivity(intent);
     }
 }
